@@ -4,7 +4,7 @@
 import requests
 
 # Update below with your render web service URL
-# url = "https://<your-render-url>/predict"
+
 url = "https://student-dropout-and-success-prediction.onrender.com/predict"
 
 
